@@ -6,12 +6,12 @@ I build AI systems that turn complex document collections into usable knowledge.
 
 ## Selected work
 
-- ⚖️ **Casemap — AI system for legal case-file analysis.** Estimated 47% reduction in review time for a criminal defense practice working with 3,000+ page case files.
-- ✍️ **Scholia — AI editing & translation workspace.** Estimated 15 hours saved per peak week through AI-assisted editing, translation and reference checking, with human approval of changes.
-- 🔔 **CourtSync — Court-case monitoring platform.** 20,000+ automated checks per month across 10+ law offices, with change detection and notifications.
-- 💬 **Conversation Mining — NLP pipeline.** 1,000+ chatbot conversations analyzed and 200 unique FAQs generated for a Dutch municipality.
-- 📑 **Immigration law — document extraction & ERP automation.** €100K+ booked in accounts receivable, with around 200 ERP records entered automatically.
-- 🌍 **Agentic investment research.** 400 academic and web sources synthesized into a cited knowledge base supporting a stakeholder workshop.
+- ⚖️ **Casemap — AI System for Legal Case-File Analysis.** Estimated 47% reduction in review time for a criminal defense practice working with 3,000+ page case files.
+- ✍️ **Scholia — AI Editing & Translation Workspace.** Estimated 15 hours saved per peak week through AI-assisted editing, translation and reference checking, with human approval of changes.
+- 🔔 **CourtSync — Court-Case Monitoring Platform.** 20,000+ automated checks per month across 10+ law offices, with change detection and notifications.
+- 💬 **Conversation Mining — NLP Pipeline.** 1,000+ chatbot conversations analyzed and 200 unique FAQs generated for a production system.
+- 📑 **Immigration Law — Document Extraction & ERP Automation.** €100K+ booked in accounts receivable, with around 200 ERP records entered automatically.
+- 🌍 **Agentic Investment Research.** 400 academic and web sources synthesized into a cited knowledge base supporting stakeholder workshops for a financial institution.
 
 ## What I build
 
