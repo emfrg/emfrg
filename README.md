@@ -33,10 +33,10 @@ I use multi-turn simulations and adversarial tests to identify failure cases, ap
 
 Python · FastAPI · PostgreSQL · LangGraph · Langfuse · OpenAI · Azure / Microsoft Foundry · Docker · Google Cloud / Cloud Run · React/Next.js
 
-## Say hello ☕
+## Say hello 👋🏻
 
-I’m building **[dunderscore](https://dunderscore.ai/)** around document intelligence and AI knowledge systems for document-heavy work.
+I’m building [dunderscore](https://dunderscore.ai/) around document intelligence and AI knowledge systems for document-heavy work.
 
 Curious about what I’m building? [Explore my case studies](https://dunderscore.ai/case-studies)
 
-Working on something similar or just want to exchange ideas? [grab a virtual coffee](https://cal.com/manos-fragkiadakis/introduction-call).
+Working on something similar or just want to exchange ideas? ☕ [Grab a virtual coffee](https://cal.com/manos-fragkiadakis/introduction-call).
